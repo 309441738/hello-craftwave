@@ -6,7 +6,7 @@
         "id": "analyze",
         "upstream": "https://httpbin.org/post",
         "method": "POST",
-        "url": "http://localhost:3000/api/gw/s/54d28b22-4b10-4781-aa04-d1302b8c76cd/analyze"
+        "url": "http://localhost:3000/api/gw/s/b6b996a9-bfb3-4e67-88a3-5953aadc6a74/analyze"
       }
     ]
   }
