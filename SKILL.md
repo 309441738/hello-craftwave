@@ -24,7 +24,7 @@ published_with: craftwave
 当需要提交分析请求时，向以下 API 发送 **POST** 请求（JSON body）：
 
 ```
-http://localhost:3000/api/gw/s/54d28b22-4b10-4781-aa04-d1302b8c76cd/analyze
+http://localhost:3000/api/gw/s/b6b996a9-bfb3-4e67-88a3-5953aadc6a74/analyze
 ```
 
 示例 body：
@@ -45,5 +45,5 @@ http://localhost:3000/api/gw/s/54d28b22-4b10-4781-aa04-d1302b8c76cd/analyze
 以下地址已替换为匠播网关，调用将自动计量：
 
 - **analyze** (POST)
-  - 网关：`http://localhost:3000/api/gw/s/54d28b22-4b10-4781-aa04-d1302b8c76cd/analyze`
+  - 网关：`http://localhost:3000/api/gw/s/b6b996a9-bfb3-4e67-88a3-5953aadc6a74/analyze`
   - 上游：`https://httpbin.org/post`
